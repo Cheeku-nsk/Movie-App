@@ -2,6 +2,8 @@
   <h1>🍿 React Movie App 🎬</h1>
   <p>A sleek, dynamic web application to explore, search, and discover your favorite movies and TV shows!</p>
 
+  <h3><strong>🌐 Deployment-URL: <a href="https://movie-app-jlis.onrender.com/">movie-app-jlis.onrender.com</a></strong></h3>
+
   <!-- Badges -->
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
@@ -59,19 +61,7 @@ Make sure you have installed:
 5. **Open your browser:**
    Navigate to the local Vite server (usually `http://localhost:5173`) to see the magic! ✨
 
-## 📸 Screenshots
-
-*(Add screenshots of your UI here to show off the amazing design!)*
-
 > **💡 Dev Tip:** You can use `AppDemo.jsx` and `indexDemo.css` to build standalone UI demonstrations or experiment with new features without affecting the main application logic. (These files are safely ignored by version control!)
-
-## 🤝 Contributing
-
-Contributions, bug reports, and feature requests are always welcome! Let's build something awesome together.
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 <div align="center">
